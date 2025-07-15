@@ -69,7 +69,7 @@
   <!-- Design & Creative -->
   <h3>🎨 Design & Creative Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,vscode,androidstudio,xcode,redux&theme=dark" alt="Design & Creative"/>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,vscode,androidstudio&theme=dark" alt="Design & Creative"/>
   </p>
 
 </div>
