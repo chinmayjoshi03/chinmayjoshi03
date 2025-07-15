@@ -129,7 +129,8 @@
   </table>
 </div>
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
+
 <div align="center">
   <table>
     <tr>
@@ -137,42 +138,64 @@
         <img src="https://github-readme-stats.vercel.app/api?username=chinmayjoshi03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=chinmayjoshi03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayjoshi03&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 </div>
-📈 Contribution Graph
+
+## 📈 Activity Overview
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayjoshi03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
-💡 What I'm Currently Working On
 
-🔨 Building a React Native e-commerce app with advanced features
-🤖 Exploring Machine Learning applications in mobile development
-🌐 Contributing to open-source projects in the React ecosystem
-📚 Learning Cloud Architecture and DevOps practices
+## 🏆 GitHub Trophies
 
-🎯 2024 Goals
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chinmayjoshi03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
- Contribute to 5 major open-source projects
- Launch 2 production-ready mobile applications
- Master advanced React Native performance optimization
- Build a comprehensive full-stack portfolio project
- Learn and implement AI/ML in real-world applications
+## 💡 What I'm Currently Working On
 
-💭 Random Dev Quote
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>🔨 Current Projects</h4>
+        <p>• Building a React Native e-commerce app with advanced features</p>
+        <p>• Exploring Machine Learning applications in mobile development</p>
+        <p>• Contributing to open-source projects in the React ecosystem</p>
+      </td>
+      <td width="50%">
+        <h4>📚 Learning Journey</h4>
+        <p>• Cloud Architecture and DevOps practices</p>
+        <p>• Advanced React Native performance optimization</p>
+        <p>• AI/ML integration in real-world applications</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎯 2024 Goals
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📚%20Contribute%20to%205%20Open--Source%20Projects-FF6B6B?style=for-the-badge&logoColor=white" alt="Goal 1"/>
+  <img src="https://img.shields.io/badge/🚀%20Launch%202%20Production%20Apps-4ECDC4?style=for-the-badge&logoColor=white" alt="Goal 2"/>
+  <img src="https://img.shields.io/badge/⚡%20Master%20Performance%20Optimization-45B7D1?style=for-the-badge&logoColor=white" alt="Goal 3"/>
+  <img src="https://img.shields.io/badge/🤖%20Implement%20AI%2FML%20Solutions-96CEB4?style=for-the-badge&logoColor=white" alt="Goal 4"/>
+</div>
+
+## 💭 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
+---
+
 <div align="center">
-  <h3>Thanks for visiting my profile! 😊</h3>
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
   <p>Feel free to reach out if you want to collaborate on exciting projects!</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
