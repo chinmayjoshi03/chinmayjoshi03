@@ -26,6 +26,9 @@
   <a href="https://github.com/chinmayjoshi03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://instagram.com/ig_chinmay">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -177,7 +180,7 @@
   </table>
 </div>
 
-## 🎯 2025 Goals
+## 🎯 2024 Goals
 
 <div align="center">
   <img src="https://img.shields.io/badge/📚%20Contribute%20to%205%20Open--Source%20Projects-FF6B6B?style=for-the-badge&logoColor=white" alt="Goal 1"/>
