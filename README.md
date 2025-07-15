@@ -89,7 +89,7 @@
           <a href="https://github.com/chinmayjoshi03/Scribble-Mobile-App">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjoshi03&repo=Scribble-Mobile-App&theme=tokyonight&hide_border=true" alt="Scribble App"/>
           </a>
-          <p><strong>React Native • Firebase • Real-time Drawing</strong></p>
+          <p><strong>React Native • Firebase • Web Sockets</strong></p>
           <p>A collaborative drawing app with real-time synchronization and multi-user support.</p>
         </div>
       </td>
@@ -99,7 +99,7 @@
           <a href="https://github.com/chinmayjoshi03/detoxify">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjoshi03&repo=detoxify&theme=tokyonight&hide_border=true" alt="Detoxify"/>
           </a>
-          <p><strong>React • Node.js • MongoDB</strong></p>
+          <p><strong>Flutter • Node.js • Firebase</strong></p>
           <p>Digital wellness platform helping users manage screen time and build healthy habits.</p>
         </div>
       </td>
@@ -111,7 +111,7 @@
           <a href="https://github.com/chinmayjoshi03/SnapSheet">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmayjoshi03&repo=SnapSheet&theme=tokyonight&hide_border=true" alt="SnapSheet"/>
           </a>
-          <p><strong>Next.js • Prisma • PostgreSQL</strong></p>
+          <p><strong>Flutter • Gemini • Express</strong></p>
           <p>Smart spreadsheet application with AI-powered data analysis and visualization.</p>
         </div>
       </td>
