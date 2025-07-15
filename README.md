@@ -129,8 +129,7 @@
   </table>
 </div>
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
   <table>
     <tr>
@@ -138,7 +137,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=chinmayjoshi03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.vercel.app/?user=chinmayjoshi03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com/?user=chinmayjoshi03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
@@ -148,41 +147,32 @@
     </tr>
   </table>
 </div>
-
-## 📈 Contribution Graph
-
+📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayjoshi03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
+💡 What I'm Currently Working On
 
+🔨 Building a React Native e-commerce app with advanced features
+🤖 Exploring Machine Learning applications in mobile development
+🌐 Contributing to open-source projects in the React ecosystem
+📚 Learning Cloud Architecture and DevOps practices
 
+🎯 2024 Goals
 
-## 💡 What I'm Currently Working On
+ Contribute to 5 major open-source projects
+ Launch 2 production-ready mobile applications
+ Master advanced React Native performance optimization
+ Build a comprehensive full-stack portfolio project
+ Learn and implement AI/ML in real-world applications
 
-- 🔨 Building a **React Native e-commerce app** with advanced features
-- 🤖 Exploring **Machine Learning** applications in mobile development
-- 🌐 Contributing to **open-source projects** in the React ecosystem
-- 📚 Learning **Cloud Architecture** and **DevOps practices**
-
-## 🎯 2024 Goals
-
-- [ ] Contribute to 5 major open-source projects
-- [ ] Launch 2 production-ready mobile applications
-- [ ] Master advanced React Native performance optimization
-- [ ] Build a comprehensive full-stack portfolio project
-- [ ] Learn and implement AI/ML in real-world applications
-
-## 💭 Random Dev Quote
-
+💭 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
-
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
   <p>Feel free to reach out if you want to collaborate on exciting projects!</p>
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
