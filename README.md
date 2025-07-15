@@ -41,7 +41,7 @@
   <!-- Frontend & Mobile -->
   <h3>🎨 Frontend & Mobile Development</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,reactnative,flutter,expo&theme=dark" alt="Frontend & Mobile"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,expo&theme=dark" alt="Frontend & Mobile"/>
   </p>
   
   <!-- Backend & APIs -->
