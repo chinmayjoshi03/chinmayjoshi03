@@ -177,7 +177,7 @@
   </table>
 </div>
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 <div align="center">
   <img src="https://img.shields.io/badge/📚%20Contribute%20to%205%20Open--Source%20Projects-FF6B6B?style=for-the-badge&logoColor=white" alt="Goal 1"/>
