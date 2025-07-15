@@ -30,39 +30,24 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,figma" alt="Frontend Skills"/>
+  
+  <!-- First Row - Moving Left to Right -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,figma,reactnative,flutter,kotlin,swift,dart,androidstudio,xcode,expo,nodejs,express,python,java,php,fastapi,django,spring&theme=dark" alt="Tech Stack Row 1"/>
+  </div>
+  
+  <br/>
+  
+  <!-- Second Row - Moving Right to Left -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,aws,gcp,redis,git,docker,kubernetes,jenkins,nginx,vercel,netlify,postman,cpp,c,photoshop,illustrator,blender,redux,graphql,prisma,vscode&theme=dark" alt="Tech Stack Row 2"/>
+  </div>
+  
 </div>
 
-### Mobile Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,kotlin,swift,dart,androidstudio,xcode,expo" alt="Mobile Skills"/>
-</div>
-
-### Backend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,fastapi,django,spring" alt="Backend Skills"/>
-</div>
-
-### Database & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,aws,gcp,redis" alt="Database Skills"/>
-</div>
-
-### DevOps & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,nginx,vercel,netlify,postman" alt="DevOps Tools"/>
-</div>
-
-### Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,kotlin,dart" alt="Programming Languages"/>
-</div>
-
-### Design & Others
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,redux,graphql,prisma,vscode" alt="Design & Others"/>
+  <h3>🚀 Frontend & Mobile | 🛠️ Backend & DevOps | 🎨 Design & Tools</h3>
 </div>
 
 ## 🚀 Featured Projects
