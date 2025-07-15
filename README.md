@@ -35,7 +35,7 @@
   <!-- Programming Languages -->
   <h3>💻 Programming Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,kotlin,dart&theme=dark" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,dart&theme=dark" alt="Programming Languages"/>
   </p>
   
   <!-- Frontend & Mobile -->
@@ -47,7 +47,7 @@
   <!-- Backend & APIs -->
   <h3>⚙️ Backend & APIs</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,spring,graphql,prisma&theme=dark" alt="Backend & APIs"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql,prisma&theme=dark" alt="Backend & APIs"/>
   </p>
   
   <!-- Database & Cloud -->
@@ -65,7 +65,7 @@
   <!-- Design & Creative -->
   <h3>🎨 Design & Creative Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,vscode,androidstudio,xcode,redux&theme=dark" alt="Design & Creative"/>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,vscode,androidstudio,xcode&theme=dark" alt="Design & Creative"/>
   </p>
 
 </div>
