@@ -32,22 +32,46 @@
 
 <div align="center">
   
-  <!-- First Row - Moving Left to Right -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,figma,reactnative,flutter,kotlin,swift,dart,androidstudio,xcode,expo,nodejs,express,python,java,php,fastapi,django,spring&theme=dark" alt="Tech Stack Row 1"/>
-  </div>
+  <!-- Programming Languages -->
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,kotlin,dart&theme=dark" alt="Programming Languages"/>
+  </p>
   
-  <br/>
+  <!-- Frontend & Mobile -->
+  <h3>🎨 Frontend & Mobile Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,reactnative,flutter,expo&theme=dark" alt="Frontend & Mobile"/>
+  </p>
   
-  <!-- Second Row - Moving Right to Left -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,aws,gcp,redis,git,docker,kubernetes,jenkins,nginx,vercel,netlify,postman,cpp,c,photoshop,illustrator,blender,redux,graphql,prisma,vscode&theme=dark" alt="Tech Stack Row 2"/>
-  </div>
+  <!-- Backend & APIs -->
+  <h3>⚙️ Backend & APIs</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,spring,graphql,prisma&theme=dark" alt="Backend & APIs"/>
+  </p>
   
+  <!-- Database & Cloud -->
+  <h3>☁️ Database & Cloud Services</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,aws,gcp,redis&theme=dark" alt="Database & Cloud"/>
+  </p>
+  
+  <!-- DevOps & Tools -->
+  <h3>🔧 DevOps & Development Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,nginx,vercel,netlify,postman&theme=dark" alt="DevOps & Tools"/>
+  </p>
+  
+  <!-- Design & Creative -->
+  <h3>🎨 Design & Creative Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,vscode,androidstudio,xcode,redux&theme=dark" alt="Design & Creative"/>
+  </p>
+
 </div>
 
 <div align="center">
-  <h3>🚀 Frontend & Mobile | 🛠️ Backend & DevOps | 🎨 Design & Tools</h3>
+  <h4>🚀 Constantly learning and exploring new technologies!</h4>
 </div>
 
 ## 🚀 Featured Projects
