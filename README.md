@@ -38,13 +38,13 @@
   <!-- Programming Languages -->
   <h3>💻 Programming Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,kotlin,dart&theme=dark" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,dart&theme=dark" alt="Programming Languages"/>
   </p>
   
   <!-- Frontend & Mobile -->
   <h3>🎨 Frontend & Mobile Development</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,kotlin,swift&theme=dark" alt="Frontend & Mobile"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter&theme=dark" alt="Frontend & Mobile"/>
   </p>
   <p>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
@@ -54,7 +54,7 @@
   <!-- Backend & APIs -->
   <h3>⚙️ Backend & APIs</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,spring,graphql,prisma&theme=dark" alt="Backend & APIs"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,spring,graphql,prisma&theme=dark" alt="Backend & APIs"/>
   </p>
   
   <!-- Database & Cloud -->
@@ -66,7 +66,7 @@
   <!-- DevOps & Tools -->
   <h3>🔧 DevOps & Development Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,nginx,vercel,netlify,postman&theme=dark" alt="DevOps & Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,vercel,netlify,postman&theme=dark" alt="DevOps & Tools"/>
   </p>
   
   <!-- Design & Creative -->
